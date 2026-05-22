@@ -1,6 +1,7 @@
-// User function Template for C++
-class Solution {
-  public:
+#include<bits/stdc++.h>
+using namespace std;
+
+
     string reverseString(string& s) {
         string ans;
 
@@ -11,4 +12,11 @@ class Solution {
 	return s;
         
     }
-};
+
+    int main(){
+
+        string s;
+        cin>>s;
+
+        cout<<reverseString(s)<<endl;
+    }
