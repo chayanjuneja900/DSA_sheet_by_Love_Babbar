@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-  vector<vector<int>> getPairs(vector<int>& arr)
+ vector<vector<int>> getPairs(vector<int>& arr)
   {
 
     int n=arr.size();
