@@ -5,4 +5,12 @@ Arrays : 36/36
 <br>
 Strings : 2
 <br>
+arrays:
 maximum profit in k transactions question left now
+strings: 
+mei longest palindromic substring left
+word wrap ==dp
+edit distance ==dp
+word break ==dp
+number of palindromic subsequence ==dp
+
