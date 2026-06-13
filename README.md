@@ -13,4 +13,7 @@ word wrap ==dp
 edit distance ==dp
 word break ==dp
 number of palindromic subsequence ==dp
+longest common substring == dp
+min charctere to add in a string == dp
+
 
