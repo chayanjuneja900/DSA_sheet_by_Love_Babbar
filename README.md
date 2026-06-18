@@ -17,3 +17,10 @@ longest common substring == dp
 min charctere to add in a string == dp
 
 
+<br>
+
+
+
+searching and sorting
+<br>
+max and not two are adj ==dp
