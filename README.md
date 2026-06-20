@@ -24,3 +24,7 @@ min charctere to add in a string == dp
 searching and sorting
 <br>
 max and not two are adj ==dp
+
+rasta nd khestak,,,---> left 
+
+double helix == dp
