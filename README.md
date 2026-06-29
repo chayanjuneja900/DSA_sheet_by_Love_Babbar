@@ -24,7 +24,25 @@ min charctere to add in a string == dp
 searching and sorting
 <br>
 max and not two are adj ==dp
-
+ 
 rasta nd khestak,,,---> left 
 
-double helix == dp
+double helix == dp. 
+
+<br>
+
+
+greedt<br>
+huffman coding
+
+<br>
+matrix
+<br>
+maximum rectangle ==dp or queues
+
+<br>
+stacks&queues
+<br>
+n stacks in a array
+
+
