@@ -44,5 +44,10 @@ maximum rectangle ==dp or queues
 stacks&queues
 <br>
 n stacks in a array
+ shortest distance of 1 in binart matrix ==. multi bfs
+
+ all lveles are anagrams or not
+ LRU chache
+ 
 
 
